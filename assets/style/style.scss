@@ -665,3 +665,20 @@ $breakpoint-md: 768px;
     margin-top: 50px;
   }
 }
+
+.carousel {
+  background-color: #343a40;
+  border-top: 2px solid #555;
+  img {
+    width: 100%;
+    height: 80%;
+    object-fit: contain;
+  }
+  .carousel-item {
+    height: 50vh;
+  }
+  .carousel-caption {
+    background: black;
+    padding: 2rem;
+  }
+}

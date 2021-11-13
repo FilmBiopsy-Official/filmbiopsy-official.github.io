@@ -1,7 +1,8 @@
 ---
 layout: blog
 ---
-<div class="blog">
+{% include carousel.html %}
+<div class="blog container">
   <h1>Latest Stories</h1>
   <div class="row stories">
     {% for post in paginator.posts %}
