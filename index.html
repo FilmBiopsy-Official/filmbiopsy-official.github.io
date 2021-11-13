@@ -1,0 +1,70 @@
+---
+layout: blog
+---
+<div class="blog">
+  <h1>Latest Stories</h1>
+  <div class="row stories">
+    {% for post in paginator.posts %}
+    <div class="col-md-4">
+      <a href="{{post.url}}">
+        <div class="card">
+          <img alt="{{post.title}}" src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ post.image }}&w=400&output=jpg" />
+          <h3 class="card-title">{{ post.title }}</h3>
+          <div class="card-body">
+            <div class="date-container">
+              <div class="date">{{ post.date | date_to_string}}</div>
+              <div class="mock"></div>
+            </div>
+            <div class="card-text">{{ post.content | strip_html | truncatewords: 30, '...'}}</div>
+          </div>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  <hr>
+  {% if paginator.total_pages > 1 %}
+  <div class="page-nav">
+    <ul class="pagination justify-content-center pagination-sm flex-wrap">
+      {% if paginator.previous_page %}
+      <li class="page-item"><a class="page-link"
+          href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a></li>
+      {% else %}
+      <li class="page-item disabled"><a class="page-link">Previous</a></li>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+
+      {% if page == paginator.page %}
+      <li class="page-item active"><a class="page-link">{{ page | pnumber }}</a></li>
+      {% elsif page == 1 %}
+      <li class="page-item"><a class="page-link"
+          href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page | pnumber
+          }}</a></li>
+      {% else %}
+      <li class="page-item"><a class="page-link"
+          href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page |
+          pnumber }}</a></li>
+      {% endif %}
+
+      {% endfor %}
+
+      {% if paginator.next_page %}
+      <li class="page-item"><a class="page-link"
+          href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a></li>
+      {% else %}
+      <li class="page-item disabled"><a class="page-link">Next</a></li>
+      {% endif %}
+    </ul>
+  </div>
+  {% endif %}
+
+</div>
+
+<style>
+  main {
+    background-color: #f7f7f7;
+    box-shadow: none;
+    border: none;
+  }
+</style>

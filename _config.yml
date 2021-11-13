@@ -1,0 +1,34 @@
+title: FilmBiopsy
+email: filmbiopsy@gmail.com
+
+description: >-
+  Stories, updates, and news on world movies with special focus on Malayalam and Indian film Industries.
+baseurl: ''
+url: '/'
+caption: Authentic stories on World Movies
+twitter_username: filmbiopsy1
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+permalink: ':title/'
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+twitter:
+  username: filmbiopsy1
+facebook:
+  publisher: filmbiopsy
+social:
+  name: FilmBiopsy
+  links:
+    - 'https://twitter.com/filmbiopsy1'
+    - 'https://www.facebook.com/filmbiopsy'
+webmaster_verifications:
+  google: 8-DkVd0YN5zpN1NpF6X4SMnRckVNQgEu4O8Uk9cU_2c
+paginate: 18
+paginate_path: '/:num/'

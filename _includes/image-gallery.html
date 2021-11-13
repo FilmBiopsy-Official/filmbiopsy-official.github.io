@@ -1,0 +1,24 @@
+<style>
+    .image-gallery {overflow: auto; text-align: center}
+    .image-gallery a {display: inline-block; margin: 0 0 1% 1%; width: 45%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block; border: 1px solid #ddd}
+    @media (max-width: 400px) {
+        .image-gallery a {
+            width: 90%;
+        }
+    }
+</style>
+<hr>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6380671811722843"
+     data-ad-slot="8131457143"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<hr>
+<p class="image-gallery">{% for file in site.static_files %}{% if file.path contains include.folder %}{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.png'%}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}<a href="{{ file.path }}" title="{{ filename }}"><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path }}&w=400&output=jpg" alt="{{ filename }}" title="{{ filename }}" /><span>{{ filename }}</span></a>{% endif %}{% endif %}{% endfor %}</p>
