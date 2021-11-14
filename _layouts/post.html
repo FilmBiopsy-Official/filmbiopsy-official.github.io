@@ -55,6 +55,13 @@ layout: default
 				<iframe width="100%" src="{{page.video}}" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 				{% endif %}
+				{% if page.tags %}
+				<div class="tags">
+					{% for tag in page.tags %}
+					<span class="tag">#{{tag}}</span>
+					{% endfor %}
+				</div>
+				{% endif %}
 			</article>
 		</div>
 		<hr>

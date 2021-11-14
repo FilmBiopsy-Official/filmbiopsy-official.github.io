@@ -36,7 +36,7 @@ North America which includes USA & Canada reported 1 Crores gross
 
 |Kerala|6.3 Cr|
 |Rest Of India|2.2 Cr|
-|UAE GCC|8 Cr|
+|UAE GCC|10.2 Cr|
 |North America|1 Cr|
 |Rest of World|0.8 Cr|
-|Total|18.3 Cr|
+|Total|20.5 Cr|

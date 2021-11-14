@@ -682,3 +682,14 @@ $breakpoint-md: 768px;
     padding: 2rem;
   }
 }
+
+.tags {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  .tag {
+    background-color: #ddd;
+    color: #666;
+    padding: .1rem;
+    margin: .1rem;
+  }
+}
