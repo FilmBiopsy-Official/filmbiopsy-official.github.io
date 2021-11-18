@@ -73,4 +73,4 @@ Worldwide Gross(10 days):-
   </tr>
 </table> 
 
-<img loading="lazy" width="1024" height="1015" src="/wp-content/uploads/2021/03/rp59nz-1024x1015.jpg" alt="" class="wp-image-2371" srcset="/wp-content/uploads/2021/03/rp59nz-1024x1015.jpg 1024w, /wp-content/uploads/2021/03/rp59nz-300x298.jpg 300w, /wp-content/uploads/2021/03/rp59nz-150x150.jpg 150w, /wp-content/uploads/2021/03/rp59nz-768x762.jpg 768w, /wp-content/uploads/2021/03/rp59nz.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Rush pics from Bangalore</figcaption>
+<img loading="lazy" width="1024" height="1015" src="/wp-content/uploads/2021/03/rp59nz-1024x1015.jpg" alt="" class="wp-image-2371" srcset="/wp-content/uploads/2021/03/rp59nz-1024x1015.jpg 1024w, /wp-content/uploads/2021/03/rp59nz-300x298.jpg 300w, /wp-content/uploads/2021/03/rp59nz-150x150.jpg 150w, /wp-content/uploads/2021/03/rp59nz-768x762.jpg 768w, /wp-content/uploads/2021/03/rp59nz.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /> *Rush pics from Bangalore*

@@ -23,7 +23,7 @@ It is quite surprising that a country like ours, with as rich a history that it 
 Mamangam, is a rich, medieval festival that took place in southern India. Evidently it was a display of religious freedom and a carnival of power presentations by the most powerful chiefs of Kerala. It was quite certainly the &#8216;desi&#8217; gladiator arena displaying the Indian martial art, Kalari.
 
 <div class="wp-block-image">
-  <img loading="lazy" width="960" height="640" src="/wp-content/uploads/2019/09/51801921_1181763375334361_464887195694530560_n.jpg" alt="" class="wp-image-411" srcset="/wp-content/uploads/2019/09/51801921_1181763375334361_464887195694530560_n.jpg 960w, /wp-content/uploads/2019/09/51801921_1181763375334361_464887195694530560_n-300x200.jpg 300w, /wp-content/uploads/2019/09/51801921_1181763375334361_464887195694530560_n-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption>Mamangam location still.</figcaption>
+  <img loading="lazy" width="960" height="640" src="/wp-content/uploads/2019/09/51801921_1181763375334361_464887195694530560_n.jpg" alt="" class="wp-image-411" srcset="/wp-content/uploads/2019/09/51801921_1181763375334361_464887195694530560_n.jpg 960w, /wp-content/uploads/2019/09/51801921_1181763375334361_464887195694530560_n-300x200.jpg 300w, /wp-content/uploads/2019/09/51801921_1181763375334361_464887195694530560_n-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />*Mamangam location still.*
 </div>
 
 Mamangam, which is certainly named conveniently, is a movie that portrays the festival and happenings around the events of this festival.&nbsp;
@@ -33,14 +33,14 @@ Not a lot is known about the movie, as the production team has sworn to secrecy 
 Thousands of extras, enormous manpower, a harras of horses and a gazillion details to the set just shows how hard people have worked on it. The set is, in one word, is enticing.
 
 <div class="wp-block-image">
-  <img loading="lazy" width="960" height="604" src="/wp-content/uploads/2019/09/53742498_1197404320436933_7935848310185656320_n.jpg" alt="" class="wp-image-410" srcset="/wp-content/uploads/2019/09/53742498_1197404320436933_7935848310185656320_n.jpg 960w, /wp-content/uploads/2019/09/53742498_1197404320436933_7935848310185656320_n-300x189.jpg 300w, /wp-content/uploads/2019/09/53742498_1197404320436933_7935848310185656320_n-768x483.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption>Mamangam 3rd schedule wrapup in Kochi</figcaption>
+  <img loading="lazy" width="960" height="604" src="/wp-content/uploads/2019/09/53742498_1197404320436933_7935848310185656320_n.jpg" alt="" class="wp-image-410" srcset="/wp-content/uploads/2019/09/53742498_1197404320436933_7935848310185656320_n.jpg 960w, /wp-content/uploads/2019/09/53742498_1197404320436933_7935848310185656320_n-300x189.jpg 300w, /wp-content/uploads/2019/09/53742498_1197404320436933_7935848310185656320_n-768x483.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />*Mamangam 3rd schedule wrapup in Kochi*
 </div>
 
 When I was hovering around the set like a fox on ropes, I saw a shoot that looked like a war scene with fire all around and the cast making their way into it. For a brief moment it felt like I am watching the movie, LIVE.&nbsp;
 
 I would be a fool to not say how thrilled I was visiting the set, and even more to listen to the plans of the producer, Venu Kunnappilly sir. When he laid down the plans he had for the movie, the risks, the freshness and more importantly, the scale, I was nothing but awestruck. He looked like a man with a mission, fuelled with passion and love for history.
 
-<img loading="lazy" width="960" height="640" src="/wp-content/uploads/2019/09/51099674_1176308589213173_9067251083746738176_n.jpg" alt="" class="wp-image-412" srcset="/wp-content/uploads/2019/09/51099674_1176308589213173_9067251083746738176_n.jpg 960w, /wp-content/uploads/2019/09/51099674_1176308589213173_9067251083746738176_n-300x200.jpg 300w, /wp-content/uploads/2019/09/51099674_1176308589213173_9067251083746738176_n-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /> <figcaption>From shooting location</figcaption> 
+<img loading="lazy" width="960" height="640" src="/wp-content/uploads/2019/09/51099674_1176308589213173_9067251083746738176_n.jpg" alt="" class="wp-image-412" srcset="/wp-content/uploads/2019/09/51099674_1176308589213173_9067251083746738176_n.jpg 960w, /wp-content/uploads/2019/09/51099674_1176308589213173_9067251083746738176_n-300x200.jpg 300w, /wp-content/uploads/2019/09/51099674_1176308589213173_9067251083746738176_n-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /> *From shooting location* 
 
 Kerala has produced wonderful movies over the last few decades, but this movie has a goal. To set the Malayalam film industry in the national stage. With plenty of national film awards this industry still has to gain it&#8217;s importance outside the Southern part of India. This movie might just be it!&nbsp;
 

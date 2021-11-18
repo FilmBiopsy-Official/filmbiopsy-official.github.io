@@ -18,7 +18,7 @@ categories:
 ---
 Driving License directed by Lal Jr opened to positive response. Movie which released on 20th December 2019 in 152 theatres in Kerala saw an average of more than 50% occupancy across the state.
 
-<img src="/wp-content/uploads/2019/12/IMG_20191221_105005-1024x926.jpg" alt="" class="wp-image-1081" /> <figcaption>All India Theatre List.</figcaption> 
+<img src="/wp-content/uploads/2019/12/IMG_20191221_105005-1024x926.jpg" alt="" class="wp-image-1081" /> *All India Theatre List.* 
 
 All India Day1 Collection Breakdown below:-
 

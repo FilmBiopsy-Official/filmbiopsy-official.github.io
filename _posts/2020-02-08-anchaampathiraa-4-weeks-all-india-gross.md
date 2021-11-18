@@ -23,7 +23,7 @@ tags:
 
 AnchaamPathiraa directed by Midhun Manuel Thomas has entered 50 Crores gross in 4 weeks. Movie which opened to excellent reviews has made Excellent Collection from Worldwide Theatricals. Movie is continuing in 101 theatres in Kerala in its 5th week.
 
-<img loading="lazy" width="819" height="1024" src="/wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o-819x1024.jpg" alt="" class="wp-image-1469" srcset="/wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o-819x1024.jpg 819w, /wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o-240x300.jpg 240w, /wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o-768x960.jpg 768w, /wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o.jpg 1024w" sizes="(max-width: 819px) 100vw, 819px" /> <figcaption>50 Crores Poster</figcaption> 
+<img loading="lazy" width="819" height="1024" src="/wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o-819x1024.jpg" alt="" class="wp-image-1469" srcset="/wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o-819x1024.jpg 819w, /wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o-240x300.jpg 240w, /wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o-768x960.jpg 768w, /wp-content/uploads/2020/02/84332746_1538880279597771_7280042572574097408_o.jpg 1024w" sizes="(max-width: 819px) 100vw, 819px" /> *50 Crores Poster* 
 
 <table class="wp-block-table">
   <tr>

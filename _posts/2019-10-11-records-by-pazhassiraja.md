@@ -17,7 +17,7 @@ categories:
   - Pazhassiraja
 ---
 <div class="wp-block-image">
-  <img loading="lazy" src="/wp-content/uploads/2019/10/72265399_509683266519019_4850797245911531520_n.jpg" alt="" class="wp-image-597" width="360" height="390" srcset="/wp-content/uploads/2019/10/72265399_509683266519019_4850797245911531520_n.jpg 720w, /wp-content/uploads/2019/10/72265399_509683266519019_4850797245911531520_n-277x300.jpg 277w" sizes="(max-width: 360px) 100vw, 360px" /><figcaption>Courtesy:- ChithraBhoomi</figcaption>
+  <img loading="lazy" src="/wp-content/uploads/2019/10/72265399_509683266519019_4850797245911531520_n.jpg" alt="" class="wp-image-597" width="360" height="390" srcset="/wp-content/uploads/2019/10/72265399_509683266519019_4850797245911531520_n.jpg 720w, /wp-content/uploads/2019/10/72265399_509683266519019_4850797245911531520_n-277x300.jpg 277w" sizes="(max-width: 360px) 100vw, 360px" />*Courtesy:- ChithraBhoomi*
 </div>
 
 Some of the records by Pazhassiraja which released on October 16,2009. 
@@ -33,7 +33,7 @@ Some of the records by Pazhassiraja which released on October 16,2009.
   9. Finished 100 days in 5 theatres
  10. Industrial hit for Megastar Mammootty after Rajamanikyam. 
 
-<img loading="lazy" width="720" height="404" src="/wp-content/uploads/2019/10/71914531_509677419852937_7299126834552111104_n.jpg" alt="" class="wp-image-598" srcset="/wp-content/uploads/2019/10/71914531_509677419852937_7299126834552111104_n.jpg 720w, /wp-content/uploads/2019/10/71914531_509677419852937_7299126834552111104_n-300x168.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /> <figcaption>Trivandrum Centre Gross</figcaption> 
+<img loading="lazy" width="720" height="404" src="/wp-content/uploads/2019/10/71914531_509677419852937_7299126834552111104_n.jpg" alt="" class="wp-image-598" srcset="/wp-content/uploads/2019/10/71914531_509677419852937_7299126834552111104_n.jpg 720w, /wp-content/uploads/2019/10/71914531_509677419852937_7299126834552111104_n-300x168.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /> *Trivandrum Centre Gross* 
 
 Note:- Rajamanikyam & Pazhassiraja gave back to back Industrial hit for Mammootty, while Mohanlal got back to back Industrial hit with Drishyam & Pulimurugan. October 16th marks 11 years of this Epic Movie.
 

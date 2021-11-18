@@ -26,7 +26,7 @@ Bhaskertherascal directed by Siddique went on to become Blockbuster at Worldwide
 
 <img loading="lazy" width="473" height="766" src="/wp-content/uploads/2020/03/IMG-20200305-WA0006.jpg" alt="" class="wp-image-1598" srcset="/wp-content/uploads/2020/03/IMG-20200305-WA0006.jpg 473w, /wp-content/uploads/2020/03/IMG-20200305-WA0006-185x300.jpg 185w" sizes="(max-width: 473px) 100vw, 473px" /> <figcaption>Kerala Theatre List  
   
-</figcaption> <img loading="lazy" width="339" height="731" src="/wp-content/uploads/2020/03/IMG-20200305-WA0005.jpg" alt="" class="wp-image-1599" srcset="/wp-content/uploads/2020/03/IMG-20200305-WA0005.jpg 339w, /wp-content/uploads/2020/03/IMG-20200305-WA0005-139x300.jpg 139w" sizes="(max-width: 339px) 100vw, 339px" /><figcaption>Rest of India Theatre List</figcaption> 
+</figcaption> <img loading="lazy" width="339" height="731" src="/wp-content/uploads/2020/03/IMG-20200305-WA0005.jpg" alt="" class="wp-image-1599" srcset="/wp-content/uploads/2020/03/IMG-20200305-WA0005.jpg 339w, /wp-content/uploads/2020/03/IMG-20200305-WA0005-139x300.jpg 139w" sizes="(max-width: 339px) 100vw, 339px" />*Rest of India Theatre List* 
 
 Collection details:-
 

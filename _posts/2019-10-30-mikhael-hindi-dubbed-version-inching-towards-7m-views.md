@@ -17,7 +17,7 @@ categories:
 Mikhael Hindi Version which was released in YouTube on 25th October and movie has got great response from Hindi belt. Movie has crossed 6.9M views in 4 days. Mikhael directed by Hanef Adeni had Nivin Pauly,Unni Mukundan & Sudev Nair donning action roles. 
 
 <div class="wp-block-embed__wrapper">
-</div><figcaption>Mikhael Hindi version</figcaption> 
+</div>*Mikhael Hindi version* 
 
 Mikhael which was released on 18th January 2019 has made a business close to 20 Crores. Movie which was made on a budget of 9.5 Crores is profitable for its makers. Movie produced by Anto Joseph was among first Malayalam movies sold to Amazon Prime for a whooping 3.75 Crore deal. Mikhael was sold along with &#8220;EnteUmmaantePeru&#8221; to Amazon prime as a bundle deal of 5 Crores. &#8220;EnteUmaantePeru&#8221; got around 1.25 Crores.
 

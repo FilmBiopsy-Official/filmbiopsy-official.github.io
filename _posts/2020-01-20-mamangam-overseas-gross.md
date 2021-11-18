@@ -26,4 +26,4 @@ Mamangam directed by M Padmakumar starring Mammootty & Unni mukundan made Record
 
 *Overseas Gross has been converted to USD.
 
-<img loading="lazy" width="416" height="280" src="/wp-content/uploads/2020/01/IMG-20200120-WA0005.jpg" alt="" class="wp-image-1341" srcset="/wp-content/uploads/2020/01/IMG-20200120-WA0005.jpg 416w, /wp-content/uploads/2020/01/IMG-20200120-WA0005-300x202.jpg 300w" sizes="(max-width: 416px) 100vw, 416px" /> <figcaption>Mamangam Overseas Gross</figcaption>
+<img loading="lazy" width="416" height="280" src="/wp-content/uploads/2020/01/IMG-20200120-WA0005.jpg" alt="" class="wp-image-1341" srcset="/wp-content/uploads/2020/01/IMG-20200120-WA0005.jpg 416w, /wp-content/uploads/2020/01/IMG-20200120-WA0005-300x202.jpg 300w" sizes="(max-width: 416px) 100vw, 416px" /> *Mamangam Overseas Gross*

@@ -24,6 +24,6 @@ Shylock directed by Ajai Vasudev made Excellent opening in Worldwide Theatricals
 
 DistrictWise Collection Breakdown:-
 
-<img loading="lazy" width="296" height="345" src="/wp-content/uploads/2020/02/IMG-20200214-WA0021.jpg" alt="" class="wp-image-1489" srcset="/wp-content/uploads/2020/02/IMG-20200214-WA0021.jpg 296w, /wp-content/uploads/2020/02/IMG-20200214-WA0021-257x300.jpg 257w" sizes="(max-width: 296px) 100vw, 296px" /> <figcaption>DistrictWise Collection</figcaption> 
+<img loading="lazy" width="296" height="345" src="/wp-content/uploads/2020/02/IMG-20200214-WA0021.jpg" alt="" class="wp-image-1489" srcset="/wp-content/uploads/2020/02/IMG-20200214-WA0021.jpg 296w, /wp-content/uploads/2020/02/IMG-20200214-WA0021-257x300.jpg 257w" sizes="(max-width: 296px) 100vw, 296px" /> *DistrictWise Collection* 
 
 Movie is continuing in 70+ screens in its 4th week after completing 14,850 shows.

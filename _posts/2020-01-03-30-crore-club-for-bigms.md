@@ -16,7 +16,7 @@ categories:
 ---
 BigM&#8217;s Mammootty & Mohanlal have been competing for the BoxOffice king throne for last 40 years. 
 
-<img loading="lazy" width="845" height="440" src="/wp-content/uploads/2020/01/SAVE_20200103_141335.jpg" alt="" class="wp-image-1244" srcset="/wp-content/uploads/2020/01/SAVE_20200103_141335.jpg 845w, /wp-content/uploads/2020/01/SAVE_20200103_141335-300x156.jpg 300w, /wp-content/uploads/2020/01/SAVE_20200103_141335-768x400.jpg 768w" sizes="(max-width: 845px) 100vw, 845px" /> <figcaption>BigM&#8217;s</figcaption> 
+<img loading="lazy" width="845" height="440" src="/wp-content/uploads/2020/01/SAVE_20200103_141335.jpg" alt="" class="wp-image-1244" srcset="/wp-content/uploads/2020/01/SAVE_20200103_141335.jpg 845w, /wp-content/uploads/2020/01/SAVE_20200103_141335-300x156.jpg 300w, /wp-content/uploads/2020/01/SAVE_20200103_141335-768x400.jpg 768w" sizes="(max-width: 845px) 100vw, 845px" /> *BigM&#8217;s* 
 
 Here we are listing out movie of BigM&#8217;s which crossed 30+ Crore Gross Worldwide:-
 

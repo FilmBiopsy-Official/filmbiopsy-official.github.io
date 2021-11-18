@@ -19,4 +19,4 @@ Mamangam which was released on December 12 is now highest grossing Malayalam mov
 
 Listing detailed Saudi Arabia Report below:-
 
-<img loading="lazy" width="685" height="339" src="/wp-content/uploads/2020/01/0_IMG-20200105-WA0110.jpg" alt="" class="wp-image-1257" srcset="/wp-content/uploads/2020/01/0_IMG-20200105-WA0110.jpg 685w, /wp-content/uploads/2020/01/0_IMG-20200105-WA0110-300x148.jpg 300w" sizes="(max-width: 685px) 100vw, 685px" /> <figcaption>Saudi Arabia detailed report</figcaption>
+<img loading="lazy" width="685" height="339" src="/wp-content/uploads/2020/01/0_IMG-20200105-WA0110.jpg" alt="" class="wp-image-1257" srcset="/wp-content/uploads/2020/01/0_IMG-20200105-WA0110.jpg 685w, /wp-content/uploads/2020/01/0_IMG-20200105-WA0110-300x148.jpg 300w" sizes="(max-width: 685px) 100vw, 685px" /> *Saudi Arabia detailed report*

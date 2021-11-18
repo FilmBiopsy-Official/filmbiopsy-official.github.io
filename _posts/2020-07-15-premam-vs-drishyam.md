@@ -27,7 +27,7 @@ Premam and Drishyam were Industrial Hits in Mollywood in last decade along with 
 
 We are comparing Total Gross of Both Industrial Hits using Piechart (Values in Crores):-
 
-<img loading="lazy" width="963" height="697" src="/wp-content/uploads/2020/07/IMG-20200715-WA0060.jpg" alt="" class="wp-image-1853" srcset="/wp-content/uploads/2020/07/IMG-20200715-WA0060.jpg 963w, /wp-content/uploads/2020/07/IMG-20200715-WA0060-300x217.jpg 300w, /wp-content/uploads/2020/07/IMG-20200715-WA0060-768x556.jpg 768w" sizes="(max-width: 963px) 100vw, 963px" /> <figcaption>Premam Piechart Breakdown(values in crores)</figcaption> 
+<img loading="lazy" width="963" height="697" src="/wp-content/uploads/2020/07/IMG-20200715-WA0060.jpg" alt="" class="wp-image-1853" srcset="/wp-content/uploads/2020/07/IMG-20200715-WA0060.jpg 963w, /wp-content/uploads/2020/07/IMG-20200715-WA0060-300x217.jpg 300w, /wp-content/uploads/2020/07/IMG-20200715-WA0060-768x556.jpg 768w" sizes="(max-width: 963px) 100vw, 963px" /> *Premam Piechart Breakdown(values in crores)* 
 
 Premam which Released in 2015 Grossed 67 Crores Worldwide. Movie crossed Drishyam(Industrial Hit prior to Premam) in all Circuits. 
 

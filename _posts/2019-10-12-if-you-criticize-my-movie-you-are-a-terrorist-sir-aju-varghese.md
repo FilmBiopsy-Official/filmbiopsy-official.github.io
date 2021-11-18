@@ -18,7 +18,7 @@ categories:
 **Aju** Varghese who has been one of the top comedians in the last few years has been losing his charm nowadays. As an actor, he is boring nowadays with most of his comedies misfiring. He is one of the most active people in social media and he promotes movies well using his profiles mainly using Facebook. 
 
 <div class="wp-block-image">
-  <img loading="lazy" width="204" height="204" src="/wp-content/uploads/2019/10/aju-varghese-30512-18-04-2017-06-18-24-3.jpg" alt="" class="wp-image-613" srcset="/wp-content/uploads/2019/10/aju-varghese-30512-18-04-2017-06-18-24-3.jpg 204w, /wp-content/uploads/2019/10/aju-varghese-30512-18-04-2017-06-18-24-3-150x150.jpg 150w" sizes="(max-width: 204px) 100vw, 204px" /><figcaption><br /></figcaption>
+  <img loading="lazy" width="204" height="204" src="/wp-content/uploads/2019/10/aju-varghese-30512-18-04-2017-06-18-24-3.jpg" alt="" class="wp-image-613" srcset="/wp-content/uploads/2019/10/aju-varghese-30512-18-04-2017-06-18-24-3.jpg 204w, /wp-content/uploads/2019/10/aju-varghese-30512-18-04-2017-06-18-24-3-150x150.jpg 150w" sizes="(max-width: 204px) 100vw, 204px" />*<br />*
 </div>
 
 He usually interacts with his fans and tries to be engaging with them. Normally stars have to face many criticisms from fans in social media and most of the stars handle that with care while some give tit for tat replies. Aju has also caught in such a stint for his Ittimaani Made In China promotion post.
