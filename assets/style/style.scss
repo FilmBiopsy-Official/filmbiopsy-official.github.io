@@ -256,9 +256,13 @@ footer {
   table {
     border-collapse: collapse;
     width: 100%;
+    overflow-x: scroll;
+    display: block;
+    white-space: nowrap;
     td, th {
       border: 1px solid #ccc;
       padding: 1rem;
+      word-break: normal;
     }
     th {
       text-align: center;
