@@ -12,7 +12,7 @@ tags:
   - Kurup Domestic Gross
   - Kurup Domestic Collection
   - Kurup Blockbuster
-description: Kurup directed by Srinath Rajendran is continuing its good run at Domestic Boxoffice. The movie has crossed a collection of 40 Croes in Domestic Box Office.
+description: Kurup directed by Srinath Rajendran is continuing its good run at Domestic Boxoffice. The movie has crossed a collection of 40 Crores in Domestic Box Office.
 ---
 ![Kurup poster 6](/assets/images/post-images/kurupp/6.jpeg)
 
@@ -26,6 +26,7 @@ The movie has entered the profit zone in Tamilnadu and Telugu states. The movie 
 
 > - [Day 1 Collection - 19.52 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
 - [Day 2 Collection - Crossed 35 Crores. See breakdown](/kurupp-world-wide-grossed-35-crores/)
+- [Kurup Collection World Wide](/kurup-crossed-75-crores/)
 
 
 **Revised Collections as Per DCR (Figures are in Crores)**
