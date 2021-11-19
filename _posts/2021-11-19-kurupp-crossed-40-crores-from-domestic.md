@@ -12,6 +12,7 @@ tags:
   - Kurup Domestic Gross
   - Kurup Domestic Collection
   - Kurup Blockbuster
+description: Kurup directed by Srinath Rajendran is continuing its good run at Domestic Boxoffice. The movie has crossed a collection of 40 Croes in Domestic Box Office.
 ---
 ![Kurup poster 6](/assets/images/post-images/kurupp/6.jpeg)
 
