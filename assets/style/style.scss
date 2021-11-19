@@ -256,9 +256,12 @@ footer {
   table {
     border-collapse: collapse;
     width: 100%;
-    td {
+    td, th {
       border: 1px solid #ccc;
       padding: 1rem;
+    }
+    th {
+      text-align: center;
     }
   }
 }
