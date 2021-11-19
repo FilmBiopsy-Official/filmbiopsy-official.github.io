@@ -13,15 +13,15 @@ tags:
   - Kurup Domestic Collection
   - Kurup Blockbuster
 ---
-![Kurupp poster 6](/assets/images/post-images/kurupp/6.jpeg)
+![Kurup poster 6](/assets/images/post-images/kurupp/6.jpeg)
 
-**The** movie Kurupp, directed by Srinath Rajendran starring Dulquer Salman, Indrajith, and Shine Tom Chacko is continuing its good run at Domestic Boxoffice. The movie has completed 12000+ shows on its first week from Kerala Boxoffice.
+Kurup directed by Srinath Rajendran starring Dulquer Salman, Indrajith, and Shine Tom Chacko is continuing its good run at Domestic Boxoffice. The movie has completed 12000+ shows on its first week from Kerala Boxoffice.
 
 The movie has entered the profit zone in Tamilnadu and Telugu states. The movie has entered BreakEven status in the First weekend itself. All set to become the Highest Grossing Malayalam movie in the Rest Of India Region.
 
-![Kurupp poster 7](/assets/images/post-images/kurupp/7.jpeg)
+![Kurup poster 7](/assets/images/post-images/kurupp/7.jpeg)
 
-## Kurupp Domestic Collection Report
+## Kurup Domestic Collection Report
 
 > - [Day 1 Collection - 20.5 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
 - [Day 2 Collection - Crossed 35 Crores. See breakdown](http://localhost:4000/kurupp-world-wide-grossed-35-crores/)
