@@ -34,9 +34,9 @@ UAE-GCC has reported 110K Admits which is 8 Crores Gross
 
 North America which includes USA & Canada reported 1 Crores gross
 
-|Kerala|6.3 Cr|
-|Rest Of India|2.2 Cr|
+|Kerala|5.89 Cr|
+|Rest Of India|1.63 Cr|
 |UAE GCC|10.2 Cr|
 |North America|1 Cr|
 |Rest of World|0.8 Cr|
-|Total|20.5 Cr|
+|Total|19.52 Cr|

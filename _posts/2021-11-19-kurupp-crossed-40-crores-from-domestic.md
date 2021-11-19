@@ -24,10 +24,11 @@ The movie has entered the profit zone in Tamilnadu and Telugu states. The movie 
 
 ## Kurup Domestic Collection Report
 
-> - [Day 1 Collection - 20.5 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
-- [Day 2 Collection - Crossed 35 Crores. See breakdown](http://localhost:4000/kurupp-world-wide-grossed-35-crores/)
+> - [Day 1 Collection - 19.52 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
+- [Day 2 Collection - Crossed 35 Crores. See breakdown](/kurupp-world-wide-grossed-35-crores/)
 
-**Figures are in Crores**
+
+**Revised Collections as Per DCR (Figures are in Crores)**
 
 |DATE|KL|TN|AP/TS|KR|ROI|DAY TOTAL|
 |---|--:|--:|--:|--:|--:|--:|
