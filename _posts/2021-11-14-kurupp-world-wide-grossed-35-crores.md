@@ -23,11 +23,11 @@ redirect_from:
 
 ## Day 2 Collection
 
-> [Day 1 Collection - 19.52 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
+> [Day 1 Collection - 20.08 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
 
-|Kerala|5.41 Cr|
-|Rest Of India|2.47 Cr|
+|Kerala|5.71 Cr|
+|Rest Of India|2.57 Cr|
 |UAE GCC|4.9 Cr|
 |North America|1.8 Cr|
 |Rest of World|0.67 Cr|
-|Total|15.25 Cr|
+|Total|15.65 Cr|

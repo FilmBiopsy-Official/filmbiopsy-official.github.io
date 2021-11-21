@@ -32,7 +32,7 @@ Kurup directed by Srinath Rajendran starting Dulquer Salman, Indrajith, Shine To
 
 ## Kurup World Wide Collection Report
 
-> - [Day 1 Collection - 19.52 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
+> - [Day 1 Collection - 20.08 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
 - [Day 2 Collection - Crossed 35 Crores. See breakdown](/kurupp-world-wide-grossed-35-crores/)
 - [Kurup Collection in Domestic Box Office](/kurupp-crossed-40-crores-from-domestic/)
 
