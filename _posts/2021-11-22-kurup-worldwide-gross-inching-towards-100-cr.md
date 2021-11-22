@@ -19,7 +19,7 @@ description: Kurup directed by Srinath Rajendran is continuing its good around t
 
 **Kurup** directed by Srinath Rajendran starring Dulquer Salman, Indrajith and Shine Tom Chacko completed 40,000+ Shows at Worldwide Theatricals. The movie has completed 15000+ shows in Kerala & 12,000 shows in the Rest Of the India circuit(All Languages).
 
-The movie has become the Highest Grossing Malayalam movie in Australia, Canada, Saudi Arabia & Europe. The movie has broken Mamangam Overseas Gross and behind Lucifer Overseas Gross(50 Crores).
+The movie has become the Highest Grossing Malayalam movie in Australia, Canada, Saudi Arabia & Europe. Kurup has surpassed Mamangam Overseas Gross and stands second to Lucifer Overseas Gross(50 Crores).
 
 The movie made on budget of 40 Crores (including P&P) has already entered the Profit zone from Worldwide Theatricals and continues to attract the audience.
 
