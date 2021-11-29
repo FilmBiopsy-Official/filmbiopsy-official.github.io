@@ -22,9 +22,8 @@ description: The Malayalam action thriller movie Kaaval written and directed by 
 
 | Day 1| 1.22 Cr|
 | Day 2 | 0.79 Cr|
-|**Weekend Collection**|-|
 | Day 3 | 1.14 Cr|
 | Day 4 | 1.18 Cr|
-| **Total** | **2.01 Cr**|
+| **Total** | **4.33 Cr**|
 
 ![Kaaval poster 1](/assets/images/post-images/kaaval/1.jpeg)
