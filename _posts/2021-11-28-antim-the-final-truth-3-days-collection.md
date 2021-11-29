@@ -11,7 +11,7 @@ categories:
 tags:
   - Bollywood Action Thriller Movie
   - Salman Khan
-description: The Malayalam 
+description: "The Indian action thriller film Antim: The Final Truth has grossed a collection of 27.49 Crores in the world box office in first three days."
 ---
 ![Antim: The Final Truth featured image](/assets/images/post-images/antim/antim-poster-163790908116x9.webp)
 
