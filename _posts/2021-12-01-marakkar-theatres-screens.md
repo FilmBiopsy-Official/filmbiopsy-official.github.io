@@ -22,4 +22,8 @@ description: "The movie Marakkar Arabikadalinte Simham directed by Priyadarshan 
 **Marakkar Arabikadalinte Simham** directed by Priyadarshan will release on December 2, 2021. Movie starring Mohanlal,Manju Warrier,Sunil Shetty and Arjun is bankrolled by Antony Perumbavoor.
 
 ## Marakkar screen and show count
-![Marakkar screens and show count](/assets/images/post-images/marakkar/show-and-theatres-1.png)
+### Trivandrum
+![Marakkar screens and show count trivandrum](/assets/images/post-images/marakkar/show-and-theatres-1.png)
+
+### Kollam
+![Marakkar screens and show count kollam](/assets/images/post-images/marakkar/show-and-theatres-kollam-1.jpeg)
