@@ -20,13 +20,18 @@ description: "Disaster Opening for #Marakkar in North America Region(Second Bigg
 ![Marakkar arabi kadalinte simham featured image](/assets/images/post-images/marakkar/bg1411.jpg)
 
 Disaster Opening for #Marakkar in North America Region(Second Biggest Overseas region for Malayalam Cinema). 
+## North America
 
-- USA - $21,837
+### USA
+
+Considering Rights amount & Huge location count, movie has Disaster Opening 👎 in North America.
+
+- Premiere - $38,347
+- Day 1 - $52,377
+- Total - $86,444
+
+### Others
 - Canada - $16,510
-- Total - $38,347 (28.64 Lakhs) from 150 locations
-- Premiere + Day1 - $86,444
-
-Considering Rights amount & Huge location count, movie has Disaster Opening 👎
 
 ## Record opening in UAE & UK
 
