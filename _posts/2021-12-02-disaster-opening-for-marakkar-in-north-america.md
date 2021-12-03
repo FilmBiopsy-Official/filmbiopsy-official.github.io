@@ -14,7 +14,7 @@ tags:
   - BoxOffice
   - Mohanlal Movie
   - Priyadarshan Movie
-description: "Disaster Opening for #Marakkar in North America Region(Second Biggest Overseas region for Malayalam Cinema)"
+description: "Disaster Opening for #Marakkar in North America Region(Second Biggest Overseas region for Malayalam Cinema). See the collection around the globe"
 ---
 
 ![Marakkar arabi kadalinte simham featured image](/assets/images/post-images/marakkar/bg1411.jpg)
@@ -36,3 +36,4 @@ Considering Rights amount & Huge location count, movie has Disaster Opening 👎
 ## Other Region Collections
 
 - Australia - A$49K (0.26 Crore)
+- New Zealand - NZ$8,770 (4.46 Lakh)
