@@ -12,7 +12,7 @@ covernews-meta-content-alignment:
 image: /wp-content/uploads/2020/04/1586916538506-1200x1200.jpg
 categories:
   - Article
-  - BoxOffice Updates
+  - BoxOffice
   - Mammootty
   - Mohanlal
   - Suresh Gopi
@@ -28,15 +28,10 @@ featured: true
 ---
  
 
-Malayalam Film Industry has grown from small film industry to Top 5 revenue churning film industry in India. It was a gradual process since past few decades. Advent of Overseas markets has helped Growth of Malayalam cinema especially GCC. Here we are listing Highest Grossing Malayalam Movies of each year from 1980 to 1999. 
+The malayalam Film Industry has grown from small film industry to Top 5 revenue churning film industry in India. It was a gradual process since past few decades. Advent of Overseas markets has helped Growth of Malayalam cinema especially GCC. Here we are listing Highest Grossing Malayalam Movies of each year from 1980 to 1999. 
 
-<div style="clear:both; margin-top:0em; margin-bottom:1em;">
-  <a href="https://www.filmbiopsy.com/2021/02/03/2153/" target="_blank" rel="nofollow noopener noreferrer" class="u1e5bdc5e04794796f75cca536ca40acf"><!-- INLINE RELATED POSTS 1/3 //-->
-  
-  <div style="padding-left:1em; padding-right:1em;">
-    <span class="ctaText">Read Also</span>&nbsp; <span class="postTitle">Highest Grossing Malayalam Movies (Year 2000-2019)</span>
-  </div></a>
-</div>
+> - [Highest Grossing Malayalam Movies (Year 2000-2019)](/2021/02/03/highest-grossing-malayalam-moviesyear-2000-2019/)
+
 
 ## 1980 &#8211; Angadi
 
@@ -82,8 +77,7 @@ Aavanaazhi directed by IV Sasi starring Mammootty was a police movie made on bud
 
 ## 1987 &#8211; New Delhi
 
-<img loading="lazy" width="892" height="661" src="/wp-content/uploads/2020/04/SAVE_20200414_203607.jpg" alt="" class="wp-image-1752" srcset="/wp-content/uploads/2020/04/SAVE_20200414_203607.jpg 892w, /wp-content/uploads/2020/04/SAVE_20200414_203607-300x222.jpg 300w, /wp-content/uploads/2020/04/SAVE_20200414_203607-768x569.jpg 768w" sizes="(max-width: 892px) 100vw, 892px" /> <figcaption>  
-</figcaption> 
+<img loading="lazy" width="892" height="661" src="/wp-content/uploads/2020/04/SAVE_20200414_203607.jpg" alt="" class="wp-image-1752" srcset="/wp-content/uploads/2020/04/SAVE_20200414_203607.jpg 892w, /wp-content/uploads/2020/04/SAVE_20200414_203607-300x222.jpg 300w, /wp-content/uploads/2020/04/SAVE_20200414_203607-768x569.jpg 768w" sizes="(max-width: 892px) 100vw, 892px" />
 
 Mammootty was going through a rough patch after industrial hit Aavanaazhi. He was going through a string of flops and most of film pundits predicted his end as a star. Dennis joseph wrote a brilliant script which was directed by Joshi. Movie made Earth Shattering Opening and went onto become huge hit for Megastar Mammootty. A Strong comeback by Mammootty. Movie become first Malayalam movie to gross 2 Crores from Theatricals. 
 
@@ -101,9 +95,7 @@ Movie directed by Hariharan written by MT Vasudevan nair is biggest hit in histo
 
 ## 1990 &#8211; His Highness Abdulla
 
-<img loading="lazy" width="742" height="1024" src="/wp-content/uploads/2020/04/SAVE_20200414_204944-742x1024.jpg" alt="" class="wp-image-1761" srcset="/wp-content/uploads/2020/04/SAVE_20200414_204944-742x1024.jpg 742w, /wp-content/uploads/2020/04/SAVE_20200414_204944-217x300.jpg 217w, /wp-content/uploads/2020/04/SAVE_20200414_204944-768x1059.jpg 768w, /wp-content/uploads/2020/04/SAVE_20200414_204944.jpg 780w" sizes="(max-width: 742px) 100vw, 742px" /> <figcaption>  
-  
-</figcaption> 
+<img loading="lazy" width="742" height="1024" src="/wp-content/uploads/2020/04/SAVE_20200414_204944-742x1024.jpg" alt="" class="wp-image-1761" srcset="/wp-content/uploads/2020/04/SAVE_20200414_204944-742x1024.jpg 742w, /wp-content/uploads/2020/04/SAVE_20200414_204944-217x300.jpg 217w, /wp-content/uploads/2020/04/SAVE_20200414_204944-768x1059.jpg 768w, /wp-content/uploads/2020/04/SAVE_20200414_204944.jpg 780w" sizes="(max-width: 742px) 100vw, 742px" /> 
 
 Movie directed by Sibi Malayil starring Mohanlal is famous for its songs. Movie bankrolled by Pranavam arts went onto become highest grossing movie of the year.
 

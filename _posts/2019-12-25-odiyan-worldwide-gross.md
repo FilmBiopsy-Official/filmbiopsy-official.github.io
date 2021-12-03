@@ -16,9 +16,9 @@ categories:
   - Mohanlal
   - Odiyan
 ---
-Odiyan was big budget movie directed by Shreekumar Menon. Movie was made on a whopping budget of 50 Crore. Movie had a wide release all across the word on December 14,2018.
+Odiyan was a big-budget movie directed by Shreekumar Menon. The movie was made on a whopping budget of 50 Crore. The movie had a wide release all across the world on December 14, 2018.
 
-Movie made Worldwide Gross of 35.96 Crores.
+The movie made a Worldwide Gross of 35.96 Crores.
 
 <table class="wp-block-table">
   <tr>
