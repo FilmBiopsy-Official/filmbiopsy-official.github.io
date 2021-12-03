@@ -23,8 +23,8 @@ Disaster Opening for #Marakkar in North America Region(Second Biggest Overseas r
 
 - USA - $21,837
 - Canada - $16,510
-
-Total - $38,347 (28.64 Lakhs) from 150 locations
+- Total - $38,347 (28.64 Lakhs) from 150 locations
+- Premiere + Day1 - $86,444
 
 Considering Rights amount & Huge location count, movie has Disaster Opening 👎
 
