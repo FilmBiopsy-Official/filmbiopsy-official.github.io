@@ -1,5 +1,5 @@
 ---
-title: Marakkar All India Gross (Day 1, and Day 2)
+title: Marakkar All India Gross (2 Days)
 author: Rajeev Kumar
 layout: post
 image: "/assets/images/post-images/marakkar/marakkar-1.jpg"
