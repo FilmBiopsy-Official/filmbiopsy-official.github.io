@@ -35,6 +35,6 @@ description: The movie Marakkar had  a good opening at Worldwide Theatricals. Th
 - All India Gross - 6.18 Crores
 
 ## Total Gross
-**Total Gross - 7.38 + 6.18 = 15.55 Crores**
+**Total Gross - 7.38 + 6.18 = 13.55 Crores**
 
 ![Marakkar arabi kadalinte simham poster](/assets/images/post-images/marakkar/marakkar-3.jpeg)
