@@ -34,6 +34,8 @@ Marakkar had below average opening in Rest Of India Circuits. Tamil version also
 ### Day 2
 - Kerala Gross - 2.62 Crores
 - Roi gross - 0.18 Crores
-- **Total All India Gross (2 days) - 8.98 Crores**
+- Total - 2.8 Crores
+
+**Total All India Gross (2 days) - 8.98 Crores**
 
 ![Marakkar arabi kadalinte simham theatre list](/assets/images/post-images/marakkar/marakkar-2.jpeg)
