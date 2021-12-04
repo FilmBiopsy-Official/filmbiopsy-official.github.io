@@ -1,20 +1,21 @@
 ---
-title: "Marakkar All India Gross (Day 1, and Day 2) "
+title: Marakkar All India Gross (Day 1, and Day 2)
 author: Rajeev Kumar
 layout: post
-image: /assets/images/post-images/marakkar/marakkar-1.jpg
+image: "/assets/images/post-images/marakkar/marakkar-1.jpg"
 categories:
-  - MollyWood
-  - BoxOffice
-  - Mohanlal
+- MollyWood
+- BoxOffice
+- Mohanlal
 tags:
-  - MollyWood
-  - Movies
-  - Historic Drama Movie
-  - BoxOffice
-  - Mohanlal Movie
-  - Priyadarshan Movie
-description: "The movie Marakkar directed by Priyadashan starring Mohanlal, Pranav, Arjun,Sunil Shetty,Manju Warrier have good opening at All India Theatricals"
+- MollyWood
+- Movies
+- Historic Drama Movie
+- BoxOffice
+- Mohanlal Movie
+- Priyadarshan Movie
+description: The movie Marakkar directed by Priyadashan starring Mohanlal, Pranav,
+  Arjun,Sunil Shetty,Manju Warrier have good opening at All India Theatricals
 ---
 
 ![Marakkar arabi kadalinte simham featured image](/assets/images/post-images/marakkar/marakkar-1.jpg)
@@ -33,6 +34,6 @@ Marakkar had below average opening in Rest Of India Circuits. Tamil version also
 ### Day 2
 - Kerala Gross - 2.62 Crores
 - Roi gross - 0.18 Crores
-- Total - 8.98 Crores
+- **Total All India Gross (2 days) - 8.98 Crores**
 
 ![Marakkar arabi kadalinte simham theatre list](/assets/images/post-images/marakkar/marakkar-2.jpeg)
