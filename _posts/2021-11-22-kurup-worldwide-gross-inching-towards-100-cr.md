@@ -9,10 +9,11 @@ categories:
 - Kurupp
 - BoxOffice
 tags:
-  - Kurup Worldwide Gross
-  - Kurup Worldwide Collection
-  - Kurup Blockbuster
-description: Kurup directed by Srinath Rajendran is continuing its good around the globe. The movie is inching towards 100 Crores collection World Wide.
+- Kurup Worldwide Gross
+- Kurup Worldwide Collection
+- Kurup Blockbuster
+description: Kurup directed by Srinath Rajendran is continuing its good around the
+  globe. The movie is inching towards 100 Crores collection World Wide.
 ---
 
 ![Kurup poster 5](/assets/images/post-images/kurupp/4.jpeg)
@@ -25,12 +26,12 @@ The movie made on budget of 40 Crores (including P&P) has already entered the Pr
 
 ![Kurup poster 4](/assets/images/post-images/kurupp/5.jpeg)
 
-## Kurup World Wide Collection Report (10 Days)
+## Kurup World Wide Collection Report
 
 > - [Day 1 Collection - 20.08 Cr. See Break down here](/malayalam/movies/kurupp/2021/11/13/kurupp-breaks-several-records.html)
 - [Day 2 Collection - Crossed 35 Crores. See breakdown](/kurupp-world-wide-grossed-35-crores/)
 
 
-### Kurup world wide collection in 10 days.
-![Kurup world wide collection in 10 days](/assets/images/post-images/kurupp/collection-10days.png)
-*Kurup world wide collection in 10 days*
+### Kurup world wide collection
+![Kurup world wide collection](/assets/images/post-images/kurupp/collection-10days.png)
+*Kurup world wide collection*
