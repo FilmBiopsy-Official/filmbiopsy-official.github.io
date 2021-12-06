@@ -17,11 +17,11 @@ tags:
 image: 
   path: /assets/images/post-images/marakkar/featured-2.jpeg
   width: 1200
-description: The Malayalam historic darama movie - Marakkar Arabikadalinte Simham - has crossed a collection of 15 Crores in the domestic box office.
+description: The Malayalam historic darama movie - Marakkar Arabikadalinte Simham - has crossed 15 Crores in the domestic box office.
 ---
 ![Marakkar arabikadalinte simham featured image](/assets/images/post-images/marakkar/featured-2.jpeg)
 
-**Marakkar - Arabikadalinte Simham** directed by Priyadarshan starring Mohanlal, Pranav, Arjun, Sunil Shetty, Manju Warrier has crossed a collection of 15 Crores in the domestic box office.
+**Marakkar - Arabikadalinte Simham** directed by Priyadarshan starring Mohanlal, Pranav, Arjun, Sunil Shetty, Manju Warrier has crossed 15 Crores in the domestic box office.
 
 ![Marakkar arabikadalinte simham poster image](/assets/images/post-images/marakkar/marakkar-4.jpeg)
 
