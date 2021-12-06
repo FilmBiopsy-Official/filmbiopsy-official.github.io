@@ -21,7 +21,7 @@ description: The Malayalam historic darama movie - Marakkar Arabikadalinte Simha
 ---
 ![Marakkar arabikadalinte simham featured image](/assets/images/post-images/marakkar/featured-2.jpeg)
 
-**Marakkar - Arabi Kadalinte Simham** directed by Priyadarshan starring Mohanlal, Pranav, Arjun, Sunil Shetty, Manju Warrier has crossed a collection of 15 Crores in the domestic box office.
+**Marakkar - Arabikadalinte Simham** directed by Priyadarshan starring Mohanlal, Pranav, Arjun, Sunil Shetty, Manju Warrier has crossed a collection of 15 Crores in the domestic box office.
 
 ![Marakkar arabikadalinte simham poster image](/assets/images/post-images/marakkar/marakkar-4.jpeg)
 
