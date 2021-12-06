@@ -13,7 +13,11 @@
       <div class="carousel-item">
         {% endif %}
         <a href="{{post.url}}">
+          {% if post.image and post.image.path %}
+          <img src="{{post.image.path}}" alt="{{post.title}}">
+          {% else %}
           <img src="{{post.image}}" alt="{{post.title}}">
+          {% endif %}
           <div class="carousel-caption">
             <h3>{{post.title}}</h3>
             <p class="d-none d-md-block">{{ post.content | strip_html | truncatewords: 30, '...'}}</p>

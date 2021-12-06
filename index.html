@@ -9,7 +9,11 @@ layout: blog
     <div class="col-md-4">
       <a href="{{post.url}}">
         <div class="card">
+          {% if post.image and post.image.path%}
+          <img alt="{{post.title}}" src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ post.image.path }}&w=400&output=jpg" />
+          {% else %}
           <img alt="{{post.title}}" src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ post.image }}&w=400&output=jpg" />
+          {%endif %}
           <h3 class="card-title">{{ post.title }}</h3>
           <div class="card-body">
             <div class="date-container">

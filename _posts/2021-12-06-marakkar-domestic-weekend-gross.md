@@ -29,8 +29,8 @@ description: The Malayalam historic darama movie - Marakkar Arabi kadalinte Simh
 - Day 1 - 5.81 Crores
 - Day 2 - 2.62 Crores
 - Day 3 - 2.81 Crores
-- Day 4 - 2.84 Crores
-- **Total Kerala Gross - 14.08 Crores**
+- Day 4 - 2.94 Crores
+- **Total Kerala Gross - 14.18 Crores**
 
 ### Rest Of India Gross
 - Day 1 - 0.37 Crores
@@ -39,4 +39,4 @@ description: The Malayalam historic darama movie - Marakkar Arabi kadalinte Simh
 - Day 4 - 0.25 Crores
 - **Total - 1.01 Crores**
 
-**Domestic Gross : 14.08 + 1.01 = 15.09 Crores**
+**Domestic Gross : 14.18 + 1.01 = 15.19 Crores**
