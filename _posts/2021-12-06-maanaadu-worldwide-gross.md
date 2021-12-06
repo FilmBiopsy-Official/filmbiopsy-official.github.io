@@ -12,7 +12,7 @@ tags:
   - Tamil Science Fiction Action Thriller Movie
   - Venkat Prabhu
   - Silambarasan
-description: "The Indian action thriller film Antim: The Final Truth has grossed a collection of 50 Crores in the world box office in the first 9 days."
+description: "Maanaadu is a 2021 Indian Tamil science fiction action thriller film written and directed by Venkat Prabhu has crossed a gross of 75 Crores in World Box Office"
 ---
 
 ![Maanaad featured image](/assets/images/post-images/maanaad/80671283.webp)
