@@ -1,5 +1,5 @@
 ---
-title: Kurup Worldwide Gross inching towards 100 Crores
+title: Kurup Worldwide Gross
 author: Rajeev Kumar
 layout: post
 image: "/assets/images/post-images/kurupp/4.jpeg"
@@ -33,5 +33,5 @@ The movie made on budget of 40 Crores (including P&P) has already entered the Pr
 
 
 ### Kurup world wide collection
-![Kurup world wide collection](/assets/images/post-images/kurupp/collection-10days.png)
+![Kurup world wide collection](/assets/images/post-images/kurupp/collection-worldwide-gross.png)
 *Kurup world wide collection*
