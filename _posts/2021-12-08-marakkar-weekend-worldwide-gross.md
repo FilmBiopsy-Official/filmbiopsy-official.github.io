@@ -21,6 +21,8 @@ description: The Malayalam historic darama movie - Marakkar Arabikadalinte Simha
 
 **Marakkar - Arabikadalinte Simham** directed by Priyadarshan starring Mohanlal, Pranav, Arjun, Sunil Shetty, Manju Warrier has grossed 35 Crores Worldwide.
 
+Movie made on budget of 100 Crores have grossed 35 Crores by the end of its first weekend.
+
 ## Marakkar weekend Worldwide Gross
 - Overseas - 19.92 Crores
 - Rest of India - 1.01 Crores
