@@ -5,7 +5,7 @@ description: A list of 5 top mollywood day 1 grossers  in the world box office. 
   day grossers.
 author: Rajeev Kumar
 layout: post
-image: /assets/images/post-images/top/top-5-mollywood-day-1.jpg
+image: /assets/images/post-images/top/featured.jpeg
 categories:
   - Mollywood
   - BoxOffice
@@ -15,7 +15,7 @@ tags:
   - Top 5 Day 1 Collection in Malayalam
   - Malayalam Top 5 Day 1 Collection
 ---
-![Top 5 Mollywood Day 1 Worldwide Grossers](/assets/images/post-images/top/top-5-mollywood-day-1.jpg)
+![Top 5 Mollywood Day 1 Worldwide Grossers](/assets/images/post-images/top/featured.jpeg)
 
 **For** the Film enthusiasts it is always interesting to learn which movies are the top grossers in the world. To this, we are listing the top 5 Mollywood day 1 worldwide grossers. 
 
