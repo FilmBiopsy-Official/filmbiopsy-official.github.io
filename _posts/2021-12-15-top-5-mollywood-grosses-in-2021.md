@@ -4,7 +4,7 @@ description: A list of 5 top mollywood grossers  in 2021. The
   list includes movies of Mammootty, Dulqer, and Mohanlal, and Asifali movies.
 author: Rajeev Kumar
 layout: post
-image: /assets/images/post-images/top/top-5-mollywood-grossers.png
+image: /assets/images/post-images/top/top-5-mollywood-2021.jpeg
 categories:
   - Mollywood
   - BoxOffice
@@ -14,7 +14,7 @@ tags:
   - Malayalam Top 5 Grossers in 2021
 ---
 
-![Top 5 Mollywood grossers in 2021](/assets/images/post-images/top/top-5-mollywood-grossers.png)
+![Top 5 Mollywood grossers in 2021](/assets/images/post-images/top/top-5-mollywood-2021.jpeg)
 
 **Due** to the ongoing COVID-19 impact, 2021 was not a good year for mollywood. Several movies opted for OTT release instead of theatre release. Following is the list of top 5 movies in mollywood based on the boxoffice performance till 14th December 2021.
 
