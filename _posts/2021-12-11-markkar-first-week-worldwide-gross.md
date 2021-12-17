@@ -26,5 +26,5 @@ description: The Malayalam historic darama movie - Marakkar Arabikadalinte Simha
 ## Markkar First Week Worldwide Gross
 - Kerala - 16.19 Crores
 - Rest Of India - 1.18 Crores
-- Overseas - 20.3 Crores
-- **Total - 37.67 Crores**
+- Overseas - 20.1 Crores
+- **Total - 37.47 Crores**
