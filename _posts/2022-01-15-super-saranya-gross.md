@@ -1,18 +1,18 @@
 ---
-title: Super Saranya Gross
+title: Super Saranya 1 Week Gross
 author: Rajeev Kumar
 layout: post
 categories:
-  - BoxOffice
+- BoxOffice
 tags:
-  - Meppadiyan
-  - Movies
-  - Malayalam
-  - Unni Mukundan
-image: /assets/images/post-images/saranya/poster-1.jpeg
+- Meppadiyan
+- Movies
+- Malayalam
+- Unni Mukundan
+image: "/assets/images/post-images/saranya/poster-1.jpeg"
 ---
 
 ![Super Saranya featured image](/assets/images/post-images/saranya/poster-1.jpeg)
 
-## Super Saranya Gross
-- Super Saranya Gross - 3.8 Crores
+## Super Saranya 1 Week Gross
+- Super Saranya Gross - 4.57 Crores
