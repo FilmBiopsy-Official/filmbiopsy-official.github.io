@@ -10,6 +10,8 @@ tags:
 - Malayalam
 - Unni Mukundan
 image: "/assets/images/post-images/meppadiyan/poster-1.jpeg"
+redirect_from:
+- meppadiyan-first-day-gross
 ---
 
 ![Meppadiyan featured image](/assets/images/post-images/meppadiyan/poster-1.jpeg)
@@ -20,4 +22,4 @@ image: "/assets/images/post-images/meppadiyan/poster-1.jpeg"
 - Day 1 - 26.8 Lakhs
 - Day 2 - 37.2 Lakhs
 - Day 3 - 42.5 Lakhs
-- **Total - 1.065 Crore**
+- **Total - 1.06 Crore**
