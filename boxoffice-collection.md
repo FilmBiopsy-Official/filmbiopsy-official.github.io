@@ -17,7 +17,7 @@ uid: BoxOffice
 
 ### Top 10 Box Office Collections
 
-  * [Lucifer (105.5 Crores)](/boxoffice-collections/lucifer-box-office-collection/)
+  * [Lucifer (111.7 Crores)](/boxoffice-collections/lucifer-box-office-collection/)
   * Mamangam(102.45 Crores)
   * [Pulimurugan (94.1 Crores)](/boxoffice-collections/pulimurugan-box-office-collection/)
   * [MadhuraRaja (85.3 Crores)](/boxoffice-collections/madhuraraja-box-office-collection/)
