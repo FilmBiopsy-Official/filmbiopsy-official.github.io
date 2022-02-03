@@ -212,10 +212,10 @@ Lucifer is debut movie of Prithviraj as Director. This multistarrer movie has Mo
 
 Kerala Box Office Collection: 62 Crores
 
-Overseas Box Office Collection: 36.3 Crores
+Overseas Box Office Collection: 42.5 Crores
 
 Rest Of India Box Office Collection: 7.2 Crores
 
 Dubbed version Box Office Collection: Crores
 
-Total Box Office Collection: **105.5 Crores**
+Total Box Office Collection: **111.7 Crores**
