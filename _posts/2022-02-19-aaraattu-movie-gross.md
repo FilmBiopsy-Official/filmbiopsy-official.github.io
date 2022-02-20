@@ -1,21 +1,24 @@
 ---
-title: Aaraattu First day gross
+title: Aaraattu 2 days gross
 description: The malayalam movie Aaraattu starring Mohanlal has completed 2300+ shows
   in the Kerala Box Office, and the first day collection in India is 2.77 Crores.
 author: Rajeev Kumar
 layout: post
 categories:
-  - BoxOffice
-  - MollyWood
-  - Mohanlal
+- BoxOffice
+- MollyWood
+- Mohanlal
 tags:
-  - MollyWood
-  - Movies
-  - Spoof Movie
-  - BoxOffice
-  - Mohanlal Movie
-  - Aaraattu First Day Gross
-image: /assets/images/post-images/aaraattu/poster-2.jpeg
+- MollyWood
+- Movies
+- Spoof Movie
+- BoxOffice
+- Mohanlal Movie
+- Aaraattu First Day Gross
+- Aarattu movie gross
+image: "/assets/images/post-images/aaraattu/poster-2.jpeg"
+redirect_from:
+- aaraattu-first-day-gross
 ---
 
 ![Aaraattu featured image](/assets/images/post-images/aaraattu/poster-2.jpeg)
@@ -24,10 +27,15 @@ image: /assets/images/post-images/aaraattu/poster-2.jpeg
 
 On the first day, the movie has completed 2300+ shows in the Kerala Box Office. 
 
-## Aaraattu First day gross
+## Aaraattu 2 days gross
+### Day 1
 - Kerala Gross - 2.61 Crores
 - Rest of India - 0.16 Crores
-- **Total - 2.77 Crores**
+
+### Day 2
+- Kerala Gross - 2.1 Crores
+- Rest Of India - 0.21 Crores
+- **Total - 5.08 Crores**
 
 The movie was made on a budget of 25 Crores.
 
