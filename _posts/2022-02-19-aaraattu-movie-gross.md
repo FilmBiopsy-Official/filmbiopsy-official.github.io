@@ -18,7 +18,7 @@ tags:
 - Aarattu movie gross
 image: "/assets/images/post-images/aaraattu/poster-2.jpeg"
 redirect_from:
-- aaraattu-first-day-gross
+  - /aaraattu-first-day-gross
 ---
 
 ![Aaraattu featured image](/assets/images/post-images/aaraattu/poster-2.jpeg)
