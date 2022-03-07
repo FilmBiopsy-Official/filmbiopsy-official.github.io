@@ -23,7 +23,7 @@ Movie crossed 25 Crores Mark at Kerala Theatricals by the end of weekend. Movie 
 
 Movie has crossed 50 Crores Gross in Worldwide Theatricals. All Time Weekend Gross in UAE-GCC.
 
-Overseas Weekend Gross is reported to have breached 4 Million. Awaiting Overseas Footfalls report from Truth global films(Overseas distributors of Bheesmaparvam).
+Overseas Weekend Gross is reported to have breached 3+ Million. Awaiting Overseas Footfalls report from Truth global films(Overseas distributors of Bheesmaparvam).
 
 ## 4 Days Kerala Boxoffice update
 - Day 1 - 6.92 Crores
