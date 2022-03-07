@@ -26,8 +26,19 @@ Movie has crossed 50 Crores Gross in Worldwide Theatricals. All Time Weekend Gro
 Overseas Weekend Gross is reported to have breached 3+ Million. Awaiting Overseas Footfalls report from Truth global films(Overseas distributors of Bheesmaparvam).
 
 ## 4 Days Kerala Boxoffice update
+
+### Kerala Breakdown
 - Day 1 - 6.92 Crores
 - Day 2 - 4.85 Crores
 - Day 3 - 6.05 Crores
 - Day 4 - 7.34 Crores (highest ever single day collection in kerala)
 - **Total Gross - 25.16 Cr**
+
+### Regionwise Breakdown
+- Kerala - 25.16 Crores
+- Rest of India - 4.3 Crores
+- UAE - 13.2 Crores
+- Saudi Arabia - 2.25 Crores 
+- Rest Of GCC - 5.1 Crores
+- Canada - 1.25 Crores
+- **Total - 51.26 Crores**
