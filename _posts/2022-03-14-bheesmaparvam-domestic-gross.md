@@ -17,13 +17,13 @@ image: /assets/images/post-images/bheeshma/6.jpeg
 ---
 ![Bheesmaparvam featured image](/assets/images/post-images/bheeshma/6.jpeg)
 
-**Bheesmaparvam** directed by Amal Neerad starring Mammootty, Soubin shaheer, Shine Tom Chacko, Sudev nair, Nadiya moythu has crossed 33 Crores in the Kerala Boxoffice and 65 Crores Worldwide
+**Bheesmaparvam** directed by Amal Neerad starring Mammootty, Soubin shaheer, Shine Tom Chacko, Sudev nair, Nadiya moythu has crossed 42 Crores in the Kerala Boxoffice and 78 Crores Worldwide
 
-Movie crossed 25 Crores Mark at Kerala Theatricals by the end of weekend. Movie which Released in 400 screens is currently running in 526 screens. Movie grossed 7.34 Crores in its first Sunday breaking Record of Bahubali 2 & Lucifer in Kerala Theatricals.
+The movie crossed 40 Crores Mark at Kerala Theatricals by the end of second weekend. Movie which Released in 400 screens is currently running in 245 screens with show count close to 970 per day. Movie grossed 7.34 Crores in its first Sunday breaking Record of Bahubali 2 & Lucifer in Kerala Theatricals. Movie crossed lifetime Gross of Drishyam by end of its second Weekend.
 
 Movie has crossed 75 Crores Gross in Worldwide Theatricals. All Time Weekend Gross in UAE-GCC.
 
-Overseas Weekend Gross is reported to have breached 3+ Million. Awaiting Overseas Footfalls report from Truth global films(Overseas distributors of Bheesmaparvam).
+Overseas Weekend Gross is reported to have breached 4+ Million. Awaiting Overseas Footfalls report from Truth global films(Overseas distributors of Bheesmaparvam).
 
 ![Bheesmaparvam featured image](/assets/images/post-images/bheeshma/7.jpeg)
 
