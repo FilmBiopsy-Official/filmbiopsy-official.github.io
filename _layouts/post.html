@@ -47,7 +47,12 @@ layout: default
 			</div>
 
 			<article class="post-content">
+
+				{% if page.private %}
+				<h2 style="color:red">The content is getting updated. Please check later</h2>
+				{% else %}
 				{{ content }}
+				{% endif %}
 				
 				{% if page.video %}
 				<h4>Video Preview</h4>
