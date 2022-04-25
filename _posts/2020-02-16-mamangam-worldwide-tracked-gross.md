@@ -20,6 +20,7 @@ tags:
   - Mamangam final Collection
   - Mamangam Worldwide Collection
   - Mamangam Worldwide Gross
+private: true
 ---
 Mamangam directed by M Padmakumar had a Worldwide Release on December 12 in 4 Indian Languages (Malayalam,Tamil,Telugu&Hindi). Movie produced by Venu Kunnampilly under the banner of Kavya films claims budget of 55 Crores. Movie starring Mammootty,Unni Mukundan,Achuthan,Prachi Tehlan & Siddique opened to decent reports. Movie made huge gross of 100 Crores from Worldwide Theatricals.
 
