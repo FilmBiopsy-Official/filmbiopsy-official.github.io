@@ -13,8 +13,10 @@ tags:
 - Spoof Movie
 - BoxOffice
 - Mohanlal Movie
-- Aaraattu First Day Gross
-- Aarattu movie gross
+- Aarattu Movie Gross
+- Aarattu Worldwide Gross
+- Aarattu Gross
+- Aarattu Collection
 image: "/assets/images/post-images/aaraattu/poster-2.jpeg"
 ---
 
