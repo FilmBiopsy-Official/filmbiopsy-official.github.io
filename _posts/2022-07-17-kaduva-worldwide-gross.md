@@ -24,7 +24,7 @@ Movie made on Budget of 18 Crores has completed 12,000 shows from Kerala BoxOffi
 
 ## Kaduva Worldwide Gross
 - Kerala - 17.8 Cr
-- GCC - 13.7 Cr
+- GCC - 15.5 Cr
 - Rest Of India - 1.1 Cr
 - Rest Of World - 89 Lakhs
-- **Grand Total - 33.49 Crores**
+- **Grand Total - 35.29 Crores**
