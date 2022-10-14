@@ -1,5 +1,5 @@
 ---
-title: 'Rorschach Worldwide Gross inches close to 20 Crores'
+title: 'Rorschach Worldwide Gross crossed 26 Crores'
 description: "Rorschach, a Malayalam psychological horror film directed by Nisam Basheer has crossed 20 Crores in worldwide boxoffice."
 author: Rajeev Kumar
 layout: post
@@ -13,7 +13,7 @@ tags:
 - Mammootty
 - Horror
 - psychological horror thriller
-image: "/assets/images/post-images/rorschach/1.jpeg"
+image: "/assets/images/post-images/rorschach/2.jpeg"
 ---
 
 ![Rorschach featured image](/assets/images/post-images/rorschach/3.jpeg)
@@ -26,9 +26,9 @@ Rorschach stars Mammootty, Grace Antony, Jagadish, Sharafudheen, Kottayam Nazeer
 
 ## Rorschach - Worldwide Gross
 
-- Kerala Gross - 9.75 Crores
-- Rest of India - 92 lakhs
-- Overseas -  8.9 Crores
-- **Total Gross - 19.57 Crores**
+- Kerala Gross - 14.7 Crores
+- Rest of India - 1.42 Crores
+- Overseas -  10.5 Crores
+- **Total Gross - 26.62 Crores**
 
 ![Rorschach featured image](/assets/images/post-images/rorschach/1.jpeg)
