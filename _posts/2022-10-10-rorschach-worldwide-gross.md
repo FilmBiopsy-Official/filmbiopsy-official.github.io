@@ -22,7 +22,7 @@ image: "/assets/images/post-images/rorschach/2.jpeg"
 
 Rorschach stars Mammootty, Grace Antony, Jagadish, Sharafudheen, Kottayam Nazeer, Sanju Sivram, Bindu Panicker and George Abraham. The film's music was composed by Midhun Mukundan and cinematography was handled by Nimish Ravi.
 
-![Rorschach featured image](/assets/images/post-images/rorschach/4.jpeg)
+![Rorschach featured image](/assets/images/post-images/rorschach/FB_IMG_1668147954184.jpg)
 
 ## Rorschach - Worldwide Gross
 
