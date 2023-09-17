@@ -1,0 +1,42 @@
+---
+title: "Jailer (2023) Movie Review: Rajinikanth's Mass Entertainer with Nelson Dilipkumar"
+description: Jailer, Nelson Dilipkumar's latest movie with Rajinikanth, is a mass-produced entertainer with a strong first half, a mind-blowing interval scene, and an awesome antagonist in Vinayakan. Rajinikanth is in top form, and the star cameos by Mohanlal, Shiva Rajkumar, and Jackie Shroff are sure to evoke mass hysteria among fans. The movie is a bit too violent for younger audiences, but for those who don't mind the gore, Jailer is a fun and entertaining ride.
+author: Biju Pillai
+layout: post
+categories:
+  - Jailer
+  - Review
+  - Rajinikanth
+  - Tamil
+tags:
+  - Jailer Movie Review
+  - Nelson Dilipkumar movie
+  - Rajnikanth movie
+  - Mass drama movie
+  - Tamil Movie
+image: /assets/images/post-images/jailer/featured.jpg
+---
+
+![Jailer featured image](/assets/images/post-images/jailer/featured.jpg)
+
+**The** first time I watched Kolamavu Kokila/KoKo on the big screen, I was instantly hooked. Nelson’s debut movie never actually looked or felt like one. Honestly, I went in as a huge Nayanthara and Anirudh fan. Ani's music was simply out of this world most of the time. Kalyana Vayassu... from KoKo was a chartbuster, and these factors alone pulled me to the theater. And then I watched the movie and fell in love with the humor—or rather, the dark humor amidst the violent and gangsta scenes! I had never seen Nayanthara in this kind of role. Her character had more meat than glamour. Nelson Dilipkumar had arrived! (Trivia: Originally, his debut movie was Vettai Mannan with Silambarasan in 2016, but it got stopped midway due to budget issues, I guess.) Then came his movie "Doctor" with Sivakarthikeyan, which was another whacky movie. Deals with Human trafficking, but it’s the way he’s directed it that made me love it so much! Again with terrific music by Anirudh. Chellamma's song went viral in no time! And then the "Beast" crawled into our lives. A slick trailer, with Thalapathy Vijay as the hero, some foot-tapping songs by Anirudh again, terrific BG, and everyone was sold. And then people just hated the movie. They even thought, Was this a Nelson movie? It had the potential to be something great, but that was probably only on the storyboard! I liked bits and pieces of it, but when the dots connected, it just crumbled like a house of cards! The songs from Beast are still amazing, as is Ani’s BG and theme for Vijay! Meaner….Leaner… Stronger……! Do I need to complete?
+
+ Well, all that is in the past. Nelson is back in his element (well, almost), and he has managed to use Super Star Rajnikant’s star power to great effect, added to Anirudh’s awesome music and a few excellent cameos! JAILER is mass-produced quite well. The story isn’t new. We have seen similar ones for a long time. But the treatment is new. The process is new. Even Rajnikant has been remodeled into a new form! He seems to be having a ball in this movie. Great makeover, almost acting his age, not always in the center of all the action, but charming, endearing, and menacing enough to grab our attention! Though one gripe I have about JAILER is the overdose of violence, I never expected it to be so bloody! I mean, I don't have a problem with violence in movies at all, but I would prefer the censorship Certificate to be strictly given according to the content. Kids, PLEASE STAY AWAY!
+
+ If the Director had decided to take that route, so be it. And if Rajnikant was okay with it, so be it. It is a trend in the current crop of movies to show extreme violence, which is debatable as to whether it's needed or not. Some will enjoy it and see it as a movie or make-believe, while others won't enjoy it as it isn't their preference. I do not know if Jailer was touted as a family movie, but it surely deserved a solid 15+ (No one younger than 15 can go and see a 15-rated film in the cinema) or even an 18 certificate (suitable for persons of eighteen or over), which would also translate to an "A" Certificate in India. But in India, it was given UA (unrestricted but with a parental discretion advisory for children under 12 years). I think some of the scenes would be horrific for children who are 12 or under. Here in the UAE, the movie was given a PG15 certificate, I believe, and for the show that I went to, there were barely any small children in the hall. I didn't even see one. And it was a packed hall! I read online that the Indian Censor Board had asked 'Jailer' makers to reduce the violence in the film and suggested 11 cuts in total. They also removed a scene featuring the three actors (Rajnikant, Mohanlal, and Shiva Rajkumar).
+
+ ![Jailer image 1](/assets/images/post-images/jailer/1.jpg)
+
+ Apart from that, the movie had a strong first half with a mind-blowing interval scene, a mellow Rajnikant being an ordinary Grandpa, a slightly dragging and "taking a wrong turn" second half but finding the way in the final part and getting back on track like "hell hath no fury", immense style, great action, and an awesome antagonist in Vinayakan who seemed like the devil incarnate! Evil personified! Some twists worked to an extent but didn't seem all that necessary as well. Anirudh's music and BGM for Jailer were tailored for Rajnikant to amp up his star power and generate hoots and whistles in the auditorium. Kaavala and Hukum songs were just amazing! 
+
+ Rajnikant, also known as Muthuvel Pandian, is a retired cop who leads a normal domestic life with his family in Chennai. Ramya Krishnan is his wife, Vijaya "Viji", Vasanth Ravi is their son, ACP Arjun, Mirna Menon is their daughter-in-law, Swetha, and Master Rithvik is his grandson. The star cameos, namely Mohanlal (Mathew), Shiva Rajkumar (Narasimha), and Jackie Shroff (Kamdev), worked to evoke mass hysteria among fans. While Mohanlal and Shiva Rajkumar were shown in the most massiest way possible, Jackie was more subtle yet fiery. People are asking for a spin-off of Mohanlal's character, Matthew, in the film. Tamannaah comes in the second half as Kamna, an actress in a subplot, which is the wrong turn I mentioned earlier! But she was stunning and sexy in the Kaavala song, which was intelligently placed in the subplot. Jackie and Rajnikant acted together 34 years ago in a Bollywood movie called Uttar Dakshin. Jackie had so much respect for Rajnikanth that when Nelson went to his farmhouse to narrate the story, all Jackie wanted to know was who the lead was. On hearing that it was Rajnikant, he immediately said yes. It was his immense love and respect for Thalaiva! Ramya had a mellowed-down role this time, unlike her confrontational role with Rajnikant many years ago in Padayappa. Yogi Babu, VTV Ganesh, Redin Kingsley, and Sunil tried their best to sprinkle comedy amidst the violence, and some of their scenes are a laugh riot while others are dead on arrival! 
+
+  ![Jailer image 2](/assets/images/post-images/jailer/2.webp)
+
+But the wife and daughter-in-law scene with Rajnikant, while goons were closing in on them from all sides with weapons, was riveting and hilarious at the same time. You have to see it to believe it. That scene was pure Nelson at his darkest and hilarious best! 
+
+ The jailer was entertainment galore at the movies. I had a realization towards the end of the movie that I was smiling ear to ear almost throughout! This is one big, glorious mass movie brilliantly made to today's standards and tropes. This means Nelson does a metamorphosis on the old Rajnikant, and hence we see the evolution of a new Thalaiva. Cute, soft, and sly as a cat! He doesn’t have to be in on the action, but he can look cool masterminding it as well!
+
+I have immense respect and thankfulness for Nelson for showing everyone how to make a proper mass cameo for a superstar actor. And respect to the audience who welcomed, hooted, and whistled at the entry of Vinayakan, Mohanlal, Shiva Rajkumar, and Jackie Shroff. Shows their love for all these actors from different industries, cementing the fact that movies from all states should be collectively called Indian Cinema! 
+
+ Catch Nelson’s Jailer at a cinema near you. You will enjoy the ride, for sure. On a side note, for me, Nelson’s Kolamavu Kokila and Doctor are still his best movies to date!
