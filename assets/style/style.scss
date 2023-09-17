@@ -700,3 +700,22 @@ $breakpoint-md: 768px;
     margin: .1rem;
   }
 }
+
+// Author box
+.author {
+  border: solid 1px #ddd;
+  padding: 1rem;
+  margin-top: 2rem;
+  border-radius: 1rem;
+  .heading {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  p {
+    font-size: 16px;
+    font-weight: bold;
+  }
+}
+// End of author box
