@@ -29,6 +29,6 @@ Rorschach stars Mammootty, Grace Antony, Jagadish, Sharafudheen, Kottayam Nazeer
 - Kerala Gross - 21.8 Crores
 - Rest of India - 2.51 Crores
 - Overseas -  16.97 Crores
-- **Total Gross - 41.28 Crores
+- **Total Gross - 41.28 Crores**
 
 ![Rorschach featured image](/assets/images/post-images/rorschach/1.jpeg)
