@@ -23,7 +23,7 @@ In this blog post, we will take a look at the top 10 highest-grossing Mollywood 
 ## Top 10 Mollywood Worldwide Grossers
 
 - 2018
-- [Pulimurugan](/pulimurugan-box-office-collection) 
+- [Pulimurugan](/boxoffice-collections/pulimurugan-box-office-collection/) 
 - Lucifer 
 - Bheeshmaparvam 
 - RDX 
