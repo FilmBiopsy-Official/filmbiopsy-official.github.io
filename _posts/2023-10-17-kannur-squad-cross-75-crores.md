@@ -36,5 +36,8 @@ The film is well-paced and keeps the audience engaged throughout. The action seq
 - Australia & New Zealand - $105K
 - ROW & Unreported -$50K
 - **Total Overseas** - $3.9M [₹32.5cr]
+- Kerala Gross - 38.2 Crores
+- Rest of India - 5.6 Crores
+- **Grand Total - 76.3 Cr**
 
 {% include image-gallery.html folder="/assets/images/post-images/kannur-squad" %}
