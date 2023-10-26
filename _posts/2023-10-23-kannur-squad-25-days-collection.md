@@ -39,7 +39,6 @@ The film maintains an engaging pace that keeps the audience hooked. The action s
 - Australia & New Zealand Reported - $115K
 - Rest Of Europe - $80K
 - ROW & Unreported - $70K
-- **Total Overseas Gross - $4.070M (₹33.8 Cr)**
 - **Overseas Gross - 34.88 Cr (26 Days)**
 
 ### Rest Of India Collection
