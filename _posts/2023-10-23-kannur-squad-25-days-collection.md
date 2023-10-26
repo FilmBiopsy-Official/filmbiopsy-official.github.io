@@ -27,11 +27,29 @@ Mammootty's performance as George Martin is outstanding, portraying a determined
 
 The film maintains an engaging pace that keeps the audience hooked. The action scenes are expertly choreographed, and the climax is particularly exciting. This crime thriller is definitely worth a watch!
 
-## Kannur Squad World Wide Collection 25 Days
+## Kannur Squad World Wide Collection
 
-- Kerala - ₹40.13 Cr
-- ROI - ₹5.56 Cr
-- Overseas - ₹34.79 Cr
-- **Total WW Gross  - ₹80.23 Cr** 
+- Kerala - ₹41.42 Cr
+
+### Overseas Collection (25 Days)
+
+- UAE GCC -  $3.235M (₹26.87cr)
+- North America Reported - $320K
+- UK & Ireland - $250K
+- Australia & New Zealand Reported - $115K
+- Rest Of Europe - $80K
+- ROW & Unreported - $70K
+- **Total Overseas Gross - $4.070M (₹33.8 Cr)**
+- **Overseas Gross - 34.88 Cr (26 Days)**
+
+### Rest Of India Collection
+
+- Karnataka: ₹3.1 Cr
+- Tamilnadu : ₹1.32 Cr
+- AP/TG : ₹55 Lakhs
+- North India : ₹1.08 Cr
+- **ROI Gross : ₹6.05 CR**
+
+### Total WW Gross  - ₹82.35 Cr
 
 {% include image-gallery.html folder="/assets/images/post-images/kannur-squad" %}
