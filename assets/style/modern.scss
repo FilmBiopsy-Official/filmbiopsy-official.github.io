@@ -1,0 +1,40 @@
+---
+---
+$primary-color: #4a86cf;
+$secondary-color: #f7f7f7;
+$text-color: #333;
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: $secondary-color;
+  color: $text-color;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: $primary-color;
+  color: white;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+button {
+  background-color: $primary-color;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: darken($primary-color, 10%);
+  }
+}

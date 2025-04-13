@@ -1,12 +1,12 @@
 ---
 layout: blog
 ---
-{% include carousel.html %}
+{% include featured-posts.html %}
 <div class="blog container">
   <h1>Latest Stories</h1>
   <div class="row stories">
     {% for post in paginator.posts %}
-    <div class="col-md-4">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-4">
       <a href="{{post.url}}">
         <div class="card">
           {% if post.image and post.image.path%}
