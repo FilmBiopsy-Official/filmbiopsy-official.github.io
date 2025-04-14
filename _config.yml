@@ -33,6 +33,9 @@ webmaster_verifications:
 paginate: 18
 paginate_path: '/:num/'
 
+feed:
+  posts_limit: 100
+
 defaults:
   - scope:
       path: ""
