@@ -16,6 +16,8 @@ layout: compress
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="stylesheet" href={{ "assets/style/bootstrap.min.css" | relative_url }}>
     <link rel="stylesheet" href={{ "assets/style/style.css" | relative_url }}>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <!-- {{page.url}} -->
     {% if page.tagline %}
@@ -65,14 +67,13 @@ layout: compress
     </div>
 </div>
 {% endif %}
-<footer class="bg-dark text-light">
-    &copy; FilmBiopsy 2015 - 2025
+<footer class="bg-dark text-light py-4 modern-footer">
+    <div class="container d-flex justify-content-center align-items-center">
+        <span class="footer-text">&copy; FilmBiopsy 2015 - 2025</span>
+    </div>
 </footer>
 {% include tracking.html %}
 <link href="https://Twitter.com/filmbiopsy1" rel="me">
-<script src={{"/assets/script/jquery-3.3.1.slim.min.js" | relative_url}} defer></script>
-    <script src={{"/assets/script/popper.min.js" | relative_url}} defer></script>
-    <script src={{"/assets/script/bootstrap.min.js" | relative_url}} defer></script>
     <script src={{"assets/script/main.js" | relative_url }} defer></script>
 </body>
 
