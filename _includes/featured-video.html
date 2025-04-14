@@ -1,0 +1,53 @@
+{% if page.url == '/' %}
+<section class="featured-video-section py-4">
+  <div class="container my-4">
+    <div class="video-wrapper">
+      {% assign video_post = site.posts | where_exp: "post", "post.video != nil" | first %}
+      {% if video_post %}
+        <div class="video-responsive">
+          <iframe 
+            src="{{ video_post.video }}" 
+            title="{{ video_post.title }}"
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+          </iframe>
+        </div>
+        <h2 class="video-title mt-3">
+          <a href="{{ video_post.url }}" class="text-decoration-none">{{ video_post.title }}</a>
+        </h2>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<style>
+.featured-video-section {
+  background-color: #2b3035;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+.video-wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.video-title {
+  color: #FFD700;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 1rem;
+  font-weight: 600;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.video-title a {
+  color: inherit;
+}
+
+.video-title a:hover {
+  color: #DAA520;
+}
+</style>
+{% endif %}
